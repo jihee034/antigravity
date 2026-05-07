@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "VibeCoding",
-  description: "A more native way to build in the AI era",
+  description: "Code with your Mind. A more native way to build in the AI era.",
 };
 
 export default function RootLayout({
